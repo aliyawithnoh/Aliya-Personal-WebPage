@@ -7,7 +7,7 @@
 }
 
 body{
-    background: linear-gradient(#7ca8c549, #7ca8c549), url(pics/morning.jpg);
+    background: linear-gradient(#34195e49, #7ca8c549), url(pics/evening.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,9 +17,9 @@ body{
 /* SCREEN MODE */
 
 .light{
-    color: #181818;
-    background: #93c4e5;
-    box-shadow: 0 5px 10px #25506b;
+  color: #181818;
+  background: #93c4e5;
+  box-shadow: 0 5px 10px #25506b;
 }
 
 /* NAVIGATION */
